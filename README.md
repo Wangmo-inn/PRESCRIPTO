@@ -157,9 +157,7 @@ prescripto/
 └── .env             # Environment Variables
 ```
 
-## 🤝 Contributing
 
-We welcome contributions! Please feel free to submit issues, fork the repository, and open pull requests.
 ## 🌍 How it looks
 
 <details>
